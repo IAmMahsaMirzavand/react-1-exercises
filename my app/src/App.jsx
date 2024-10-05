@@ -39,10 +39,10 @@ function App() {
 
 
   return (
-<div>
+<>
 <HelloWorld/>
 <Card/>
-</div>
+</>
   )
 }
 
